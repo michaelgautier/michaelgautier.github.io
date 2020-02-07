@@ -1,0 +1,75 @@
+.body{
+	font-family: arial, helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	font-size: 6pt;
+}
+
+.site_header_area{
+	background: #6c2c2d;
+	#background: #fbb055;
+	width: 100%;
+	height: 60px;
+}
+
+.site_header_lead_col{
+	padding: 8px;
+}
+
+.site_header_logo{
+	text-align: left;
+	padding-top: 4px;
+	padding-left: 4px;
+	padding-right: 0px;
+	padding-bottom: 4px;
+}
+
+.site_header_logo_text{
+	font-family: roman, 'times new roman', times, serif;
+	text-align: left;
+	vertical-align: bottom;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 18px;
+	color: #fbb055;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14pt;
+}
+
+.site_header_page_text{
+	text-align: right;
+	vertical-align: top;
+	padding-top: 34px;
+	padding-left: 0px;
+	padding-right: 60px;
+	padding-bottom: 0px;
+	color: #fbb055;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18pt;
+}
+
+.site_navigation_area{
+	background: #f8dec4;
+	width: 100%;
+	padding: 8px;
+	font-weight: normal;
+	font-size: 10pt;
+}
+
+.page_content{
+	margin: 0px;
+	padding-top: 0.25in;
+	padding-left: 1in;
+	font-size: 18pt;
+}
+
+.paragraph{
+	padding-left: 32px;
+	margin-right: 164px;
+	text-indent: 30pt;
+	font-size: 14pt;
+	line-height: 28pt;
+}
